@@ -1,0 +1,104 @@
+Plant: corn
+ Makes profit for 18 days
+ Plots Used: 6
+ Money Spent: 900
+ Money Retained: 100
+ Profit: -300
+ Gold Per Day: -10g/d
+
+Plant: sunflower
+ Planted every 8 days for 16 days
+ Plots Used: 5
+ Money Spent: 1000
+ Money Retained: 0
+ Profit: -1200
+ Gold Per Day: -42g/d
+
+Plant: wheat
+ Planted every 4 days for 16 days
+ Plots Used: 100
+ Money Spent: 1000
+ Money Retained: 0
+ Profit: 6000
+ Gold Per Day: 214g/d
+
+Plant: amaranth
+ Planted every 7 days for 14 days
+ Plots Used: 14
+ Money Spent: 980
+ Money Retained: 20
+ Profit: 2240
+ Gold Per Day: 80g/d
+
+Plant: artichoke
+ Planted every 7 days for 14 days
+ Plots Used: 33
+ Money Spent: 990
+ Money Retained: 10
+ Profit: 8580
+ Gold Per Day: 306g/d
+
+Plant: beetroot
+ Planted every 6 days for 18 days
+ Plots Used: 50
+ Money Spent: 1000
+ Money Retained: 0
+ Profit: 12000
+ Gold Per Day: 428g/d
+
+Plant: bok choy
+ Planted every 4 days for 16 days
+ Plots Used: 20
+ Money Spent: 1000
+ Money Retained: 0
+ Profit: 2400
+ Gold Per Day: 85g/d
+
+Plant: cranberries
+ Makes profit for 17 days
+ Plots Used: 4
+ Money Spent: 960
+ Money Retained: 40
+ Profit: 840
+ Gold Per Day: 30g/d
+
+Plant: eggplant
+ Makes profit for 15 days
+ Plots Used: 50
+ Money Spent: 1000
+ Money Retained: 0
+ Profit: 8000
+ Gold Per Day: 285g/d
+
+Plant: fairy rose
+ Planted every 12 days for 12 days
+ Plots Used: 5
+ Money Spent: 1000
+ Money Retained: 0
+ Profit: 450
+ Gold Per Day: 16g/d
+
+Plant: grape
+ Makes profit for 16 days
+ Plots Used: 16
+ Money Spent: 960
+ Money Retained: 40
+ Profit: 2880
+ Gold Per Day: 102g/d
+
+Plant: pumpkin
+ Planted every 13 days for 13 days
+ Plots Used: 10
+ Money Spent: 1000
+ Money Retained: 0
+ Profit: 2200
+ Gold Per Day: 78g/d
+
+Plant: yam
+ Planted every 10 days for 10 days
+ Plots Used: 16
+ Money Spent: 960
+ Money Retained: 40
+ Profit: 1600
+ Gold Per Day: 57g/d
+

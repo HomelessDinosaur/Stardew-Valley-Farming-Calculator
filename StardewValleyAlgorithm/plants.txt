@@ -1,0 +1,255 @@
+<plant>
+	<name>parsnip</name>
+	<cost>20</cost>
+	<sell>25</sell>
+	<growth>4</growth>
+	<primarySeason>spring</primarySeason>
+</plant>
+<plant>
+	<name>coffee bean</name>
+	<cost>15</cost>
+	<sell>60</sell>
+	<growth>10</growth>
+	<regrowth>2</regrowth>
+	<primarySeason>spring</primarySeason>
+	<secondarySeason>summer</secondarySeason>
+</plant>
+<plant>
+	<name>garlic</name>
+	<cost>40</cost>
+	<sell>60</sell>
+	<growth>4</growth>
+	<primarySeason>spring</primarySeason>
+</plant>
+<plant>
+	<name>green bean</name>
+	<cost>60</cost>
+	<sell>40</sell>
+	<growth>10</growth>
+	<regrowth>3</regrowth>
+	<primarySeason>spring</primarySeason>
+</plant>
+<plant>
+	<name>kale</name>
+	<cost>70</cost>
+	<sell>110</sell>
+	<growth>10</growth>
+	<regrowth>3</regrowth>
+	<primarySeason>spring</primarySeason>
+</plant>
+<plant>
+	<name>potato</name>
+	<cost>50</cost>
+	<sell>80</sell>
+	<growth>6</growth>
+	<primarySeason>spring</primarySeason>
+</plant>
+<plant>
+	<name>rhubarb</name>
+	<cost>100</cost>
+	<sell>220</sell>
+	<growth>13</growth>
+	<primarySeason>spring</primarySeason>
+</plant>
+<plant>
+	<name>strawberry</name>
+	<cost>100</cost>
+	<sell>150</sell>
+	<growth>8</growth>
+	<regrowth>4</regrowth>
+	<primarySeason>spring</primarySeason>
+</plant>
+<plant>
+	<name>cauliflower</name>
+	<cost>80</cost>
+	<sell>120</sell>
+	<growth>12</growth>
+	<regrowth>0</regrowth>
+	<primarySeason>spring</primarySeason>
+</plant>
+<plant>
+	<name>tulip</name>
+	<cost>20</cost>
+	<sell>30</sell>
+	<growth>6</growth>
+	<primarySeason>spring</primarySeason>
+</plant>
+<plant>
+	<name>rice</name>
+	<cost>40</cost>
+	<sell>30</sell>
+	<growth>6</growth>
+	<primarySeason>spring</primarySeason>
+</plant>
+<plant>
+	<name>blueberry</name>
+	<cost>80</cost>
+	<sell>150</sell>
+	<growth>13</growth>
+	<regrowth>4</regrowth>
+	<primarySeason>summer</primarySeason>
+</plant>
+<plant>
+	<name>corn</name>
+	<cost>150</cost>
+	<sell>50</sell>
+	<growth>14</growth>
+	<regrowth>4</regrowth>
+	<primarySeason>summer</primarySeason>
+	<secondarySeason>autumn</secondarySeason>
+</plant>
+<plant>
+	<name>hops</name>
+	<cost>60</cost>
+	<sell>25</sell>
+	<growth>11</growth>
+	<regrowth>1</regrowth>
+	<primarySeason>summer</primarySeason>
+</plant>
+<plant>
+	<name>hot pepper</name>
+	<cost>40</cost>
+	<sell>40</sell>
+	<growth>5</growth>
+	<regrowth>3</regrowth>
+	<primarySeason>summer</primarySeason>
+</plant>
+<plant>
+	<name>melon</name>
+	<cost>80</cost>
+	<sell>250</sell>
+	<growth>12</growth>
+	<primarySeason>summer</primarySeason>
+</plant>
+<plant>
+	<name>poppy</name>
+	<cost>100</cost>
+	<sell>140</sell>
+	<growth>7</growth>
+	<primarySeason>summer</primarySeason>
+</plant>
+<plant>
+	<name>radish</name>
+	<cost>40</cost>
+	<sell>90</sell>
+	<growth>6</growth>
+	<primarySeason>summer</primarySeason>
+</plant>
+<plant>
+	<name>red cabbage</name>
+	<cost>100</cost>
+	<sell>260</sell>
+	<growth>9</growth>
+	<primarySeason>summer</primarySeason>
+</plant>
+<plant>
+	<name>starfruit</name>
+	<cost>400</cost>
+	<sell>750</sell>
+	<growth>13</growth>
+	<primarySeason>summer</primarySeason>
+</plant>
+<plant>
+	<name>summer spangle</name>
+	<cost>50</cost>
+	<sell>90</sell>
+	<growth>8</growth>
+	<primarySeason>summer</primarySeason>
+</plant>
+<plant>
+	<name>sunflower</name>
+	<cost>200</cost>
+	<sell>80</sell>
+	<growth>8</growth>
+	<primarySeason>summer</primarySeason>
+	<secondarySeason>autumn</secondarySeason>
+</plant>
+<plant>
+	<name>tomato</name>
+	<cost>50</cost>
+	<sell>60</sell>
+	<growth>11</growth>
+	<regrowth>4</regrowth>
+	<primarySeason>summer</primarySeason>
+</plant>
+<plant>
+	<name>wheat</name>
+	<cost>10</cost>
+	<sell>25</sell>
+	<growth>4</growth>
+	<primarySeason>summer</primarySeason>
+	<secondarySeason>autumn</secondarySeason>
+</plant>
+<plant>
+	<name>amaranth</name>
+	<cost>70</cost>
+	<sell>150</sell>
+	<growth>7</growth>
+	<primarySeason>autumn</primarySeason>
+</plant>
+<plant>
+	<name>artichoke</name>
+	<cost>30</cost>
+	<sell>160</sell>
+	<growth>7</growth>
+	<primarySeason>autumn</primarySeason>
+</plant>
+<plant>
+	<name>beetroot</name>
+	<cost>20</cost>
+	<sell>100</sell>
+	<growth>6</growth>
+	<primarySeason>autumn</primarySeason>
+</plant>
+<plant>
+	<name>bok choy</name>
+	<cost>50</cost>
+	<sell>80</sell>
+	<growth>4</growth>
+	<primarySeason>autumn</primarySeason>
+</plant>
+<plant>
+	<name>cranberries</name>
+	<cost>240</cost>
+	<sell>150</sell>
+	<growth>7</growth>
+	<regrowth>5</regrowth>
+	<primarySeason>autumn</primarySeason>
+</plant>
+<plant>
+	<name>eggplant</name>
+	<cost>20</cost>
+	<sell>60</sell>
+	<growth>5</growth>
+	<regrowth>5</regrowth>
+	<primarySeason>autumn</primarySeason>
+</plant>
+<plant>
+	<name>fairy rose</name>
+	<cost>200</cost>
+	<sell>290</sell>
+	<growth>12</growth>
+	<primarySeason>autumn</primarySeason>
+</plant>
+<plant>
+	<name>grape</name>
+	<cost>60</cost>
+	<sell>80</sell>
+	<growth>10</growth>
+	<regrowth>3</regrowth>
+	<primarySeason>autumn</primarySeason>
+</plant>
+<plant>
+	<name>pumpkin</name>
+	<cost>100</cost>
+	<sell>320</sell>
+	<growth>13</growth>
+	<primarySeason>autumn</primarySeason>
+</plant>
+<plant>
+	<name>yam</name>
+	<cost>60</cost>
+	<sell>160</sell>
+	<growth>10</growth>
+	<primarySeason>autumn</primarySeason>
+</plant>
